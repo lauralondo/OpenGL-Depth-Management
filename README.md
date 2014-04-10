@@ -4,8 +4,9 @@ Depth Management
 An OpenGL program that demonstrates  simple manual depth management
 
 
-Directions:  
-    press a numbered key 0-9 to choose a rectangle to move  
+#####Directions:  
+
+      press a numbered key 0-9 to choose a rectangle to move  
  	  arrow keys move the rectangle on the x and y axis  
  	  f moves the rectangle forwards, towards the viewer  
  	  b moves the rectangle back away from the viewer  
